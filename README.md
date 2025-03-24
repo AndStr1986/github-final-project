@@ -1,5 +1,6 @@
 # github-final-project
-Micro-finance startup with a mission to empower and provide opportunities for low income individuals<br>
+
+## Simple Interest Calculator
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
